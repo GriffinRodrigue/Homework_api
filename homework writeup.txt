@@ -1,0 +1,14 @@
+Hello!
+I learned a great deal about APIs and myself in this assignment. 
+Some deep painful truths were exposed and its over. C'est fini. 
+
+One visible trend from my data is that 
+the a cities distance from the equator directly affects its temperature.
+The highest temperatue is at the equator
+and you can see the curve of the earth in the decreae in temperature.
+
+A second trend is that on average humidity is usually between 50 and 100 percent.
+
+I don't know what to make of the clouds but the wind is pretty light in most cities
+ but at the extremes it picks up in intensity
+
